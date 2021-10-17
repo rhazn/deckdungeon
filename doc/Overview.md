@@ -1,10 +1,9 @@
 # Deckdungeon
 
-Deckdungeon is a cooperative roguelike collectible card game.
+Deckdungeon is a cooperative roguelike collectible card game with a [great style](Style.md).
 
 ## Concepts
 - Earning and opening loot boxes as core gameplay mechanic, not selling lootboxes
-- Lots of GW2/MTG inspired concept art for cards
 - Building perfect heroes from [drops/loot boxes](Lootboxes.md), inspired by games like Pokemon or Diablo
 
 ## Main Systems
