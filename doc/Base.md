@@ -1,2 +1,3 @@
 # Base
 - build buildings and upgrade them for more heroes, more resources, buffs, more cards...
+- base should be a floating ship, monstrous zeppelin like thing
