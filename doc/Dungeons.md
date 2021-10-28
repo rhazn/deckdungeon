@@ -7,7 +7,7 @@ A dungeon consists of:
 - a boss scenario card
 
 Before entering a dungeon, players choose:
-- 3 heroes
+- 3 characters
 - a set of scenario cards, limited by the dungeon and destroyed when used
 
 The "dungeon deck" is build by:
