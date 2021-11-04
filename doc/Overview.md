@@ -13,7 +13,18 @@ Deckdungeon is a cooperative roguelike collectible [card](Card.md) game with a [
 - Trade cards and lootboxes on a [market](Market.md)
 
 ## Releases
-- Alpha 1 (One preconfigured dungeon run)
+- Combat prototype (CLI)
+  - One scenario combat card with predefined characters with only 2x and 0.5x targetted damage cards, enemies auto end activation
+  - Enemy AI: Enemies have only "Deal 1x damage to one enemy" cards. Play as many damage cards as possible, target highest aggro, end activation
+- Combat prototype (Web)
+- Dungeon combat prototype
+  - A dungeon deck of multiple scenario combat cards from combat prototype
+  - One boss card with single, stronger enemy (same AI)
+- Dungeon prototype
+  - Dungeon with shuffled deck, boss card in last 30%
+  - Add more (non-combat) scenario cards to dungeon deck iteratively
+
+- Alpha 1 (One preconfigured dungeon run from the Alpha set)
 - Alpha 2 (User accounts, saving dungeon run stats)
 - Alpha 3 (Drops from dungeon run, customize characters from those)
 
