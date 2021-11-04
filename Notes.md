@@ -1,3 +1,0 @@
-- story/world
-  - steampunk, magic robots and flying ships/cities
-  - first "dungeon" should be flying islands, cool visuals and unique
