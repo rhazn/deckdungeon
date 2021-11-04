@@ -32,6 +32,7 @@ Scenario cards come in different types:
 - Positive Effect scenarios (Swipe to deal X% more damage for the next Y Cards, Swipe to heal the party for X%)
 - Negative Effect scenarios (Deals X% damage to party, lowers party damage by Y%)
   - Can potentially be avoided by having a party member with a tag? "Take 3 damage if you don't have an elf in your party")
+  - Can have multiple effects (Deal 3 damage if you don't have a character with initiative > 3, Deal 3 additional damage if no initiative > 2...)
 - Deck interaction scenarios (Look at the next card, choose to put it at bottom. Shuffle deck. Shuffle X cards of type Y into the deck.)
 - Deck change scenarios (Take X resources but shuffle three Y combat scenarios into the dungeon. Do X damage and shuffle a lava pit into the dungeon. Destroy the following two non-boss scenario cards.)
 - Choice scenarios (As above but make a choice)

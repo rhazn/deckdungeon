@@ -1,6 +1,6 @@
 # Deckdungeon
 
-Deckdungeon is a cooperative roguelike collectible card game with a [great style](Style.md).
+Deckdungeon is a cooperative roguelike collectible [card](Card.md) game with a [great style](Style.md).
 
 ## Concepts
 - Earning and opening loot boxes as core gameplay mechanic, not selling lootboxes
@@ -11,6 +11,11 @@ Deckdungeon is a cooperative roguelike collectible card game with a [great style
 - Build a [persistent base](Base.md) from those ressources
 - Collect and customize a [party of characters](Characters.md)
 - Trade cards and lootboxes on a [market](Market.md)
+
+## Releases
+- Alpha 1 (One preconfigured dungeon run)
+- Alpha 2 (User accounts, saving dungeon run stats)
+- Alpha 3 (Drops from dungeon run, customize characters from those)
 
 ## Sets
 [Alpha Set](./SetAlpha.md)

@@ -1,5 +1,3 @@
-- combat
-  - characters have own values for armor/hp/attack
-  - have own deck with cards like "deal your attack dmg to everyone", "deal 2x attack", "gain x armor", "buff"...
-  - play in initiative order, can play as many as X cards or cards costing X (their speed?), every card above can also be played but is burned forever?
-  - should have positions on field? probably not at first? maybe just 1d position like hearthstone?
+- story/world
+  - steampunk, magic robots and flying ships/cities
+  - first "dungeon" should be flying islands, cool visuals and unique
