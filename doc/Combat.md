@@ -1,6 +1,9 @@
 # Combat
 Combat is needed to resolve combat scenario cards.
 
+## Combat mockup
+![Combat mockup](./mockups/combat.svg "Combat mockup")
+
 ## Enemies
 Combat is fought against one or multiple [characters](./Characters.md) that are spawned on a [scenario card](./Card.md) and displayed on top of the screen.
 

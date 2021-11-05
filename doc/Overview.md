@@ -2,6 +2,9 @@
 
 Deckdungeon is a cooperative roguelike collectible [card](Card.md) game with a [great style](Style.md).
 
+## Mockups
+Mockups are done in [excalidraw.com](https://excalidraw.com/).
+
 ## Concepts
 - Earning and opening loot boxes as core gameplay mechanic, not selling lootboxes
 - Building perfect characters from [drops/loot boxes](Lootboxes.md), inspired by games like Pokemon or Diablo

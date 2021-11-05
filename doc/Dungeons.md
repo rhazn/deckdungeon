@@ -1,6 +1,9 @@
 # Dungeons
 A core gameplay system is exploring dungeons with a party to gather resources.
 
+## Dungeon card mockup
+![Dungeon card mockup](./mockups/dungeon.svg "Dungeon card mockup")
+
 ## Setup
 A dungeon consists of:
 - a set of scenario cards
