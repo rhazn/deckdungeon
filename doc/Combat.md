@@ -19,7 +19,11 @@ On combat start every character gains:
 ## Turns
 Characters take activations according to their initiative (from high to low). Once every character has had an activation a turn ends.
 
-On activation start the character draws a hand of 5 cards from their skill deck and restores their action points. A **skill deck** is the collection of skill cards a character can use during combat. A **hand** is the set of cards drawn from the skill deck for the current activation. **Action points** are a resource that is restored at the start of each activation; playing skill cards consumes action points based on each card's action cost. If the character is a player character they move to the top of the triangle and their hand is displayed above them.
+On activation start the character draws a hand of 5 cards from their skill deck and restores their action points.
+
+A **skill deck** is the collection of skill cards a character can use during combat. A **hand** is the set of cards drawn from the skill deck for the current activation. **Action points** are a resource that is restored at the start of each activation; playing skill cards consumes action points based on each card's action cost.
+
+If the character is a player character they move to the top of the triangle and their hand is displayed above them.
 
 During their activation a character can:
     - play skill cards from their hand if they can pay the action costs
