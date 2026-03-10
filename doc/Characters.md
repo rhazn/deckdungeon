@@ -19,7 +19,7 @@ A character consists of:
 Quality ranges from 1-5 stars and affects the values of statistics. A 1 star human fighter might have 5-10 hitpoints while a 5 star human fighter has 20-25. Character quality can be increased by combining lower quality characters with the right building in the [Base](./Base.md).
 
 # Level
-When leveling up users can change a characters deck by removing or adding cards (depending on what they have built in their [Base](./Base.md)). Characters can be improved by e.g. removing 0.5x damage cards or adding more 2x damage cards.
+When leveling up users can change a character's deck by removing or adding cards (depending on what they have built in their [Base](./Base.md)). Characters can be improved by e.g. removing 0.5x damage cards (which halve the damage dealt) or adding more 2x damage cards (which double the damage dealt).
 
 # Story
 Longterm characters can potentially have unique stories and affinities so they react to actions of the player, like/dislike each other etc.
