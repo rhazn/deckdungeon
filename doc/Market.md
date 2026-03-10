@@ -1,2 +1,3 @@
 # Market
-Long term a market should allow users to trade lootboxes and cards with each other.
+
+**Planned Feature:** A market system will eventually allow users to trade lootboxes and cards with each other. This feature is currently in the roadmap and has not been implemented yet.
