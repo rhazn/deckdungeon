@@ -32,4 +32,4 @@ Mockups are done in [excalidraw.com](https://excalidraw.com/).
 - Alpha 3 (Drops from dungeon run, customize characters from those)
 
 ## Sets
-[Alpha Set](./SetAlpha.md)
+[Alpha Set](SetAlpha.md)
