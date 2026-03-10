@@ -31,7 +31,7 @@ If a card can target a single enemy players can drag it over the enemy to target
 Enemies base their targeting on the aggro value of player characters, typically preferring high aggro characters.
 
 ## Damage and Knocked out
-Some cards deal damage. Damage is reduced by the armor value of the character (to a minimum of 1) and then removed from the characters hitpoints. Once a character is reduced to zero or less hitpoints they are knocked out. Knocked out characters automatically skip their activation. Once knocked out, a character remains knocked out for the remainder of that combat.
+Some cards deal damage. Damage is reduced by the armor value of the character (to a minimum of 1) and then removed from the characters hitpoints. Once a character is reduced to zero or less hitpoints they are knocked out. Knocked out characters automatically skip their activation. Knocked out characters can be healed back above 0 hitpoints; once healed, they are no longer knocked out and can act normally on their next activation.
 
 ## Combat end
 Combat ends when all enemies or player characters are knocked out. If all player characters are knocked out the dungeon is lost, otherwise the scenario is passed.
