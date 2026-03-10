@@ -31,5 +31,7 @@ Mockups are done in [excalidraw.com](https://excalidraw.com/).
 - Alpha 2 (User accounts, saving dungeon run stats)
 - Alpha 3 (Drops from dungeon run, customize characters from those)
 
+**Note:** Development has been inactive since the documentation was created in 2021.
+
 ## Sets
 [Alpha Set](./SetAlpha.md)
