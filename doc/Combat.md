@@ -25,6 +25,8 @@ During their activation a character can:
     - play skill cards from their hand if they can pay the action costs
     - end their activation
 
+If a character has no playable cards in their hand (due to insufficient action points or other restrictions), they must end their activation immediately.
+
 ## Targeting
 If a card can target a single enemy players can drag it over the enemy to target.
 
