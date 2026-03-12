@@ -21,7 +21,7 @@ The "dungeon deck" is build by:
 ## Core interactions
 - player chooses a character to "go first" (be on top of the triangle)
 - build dungeon deck for each character by choosing new cards from scenarios
-  - this way each dungeon run is unique, similar to building a deck in HS/Slay the spire
+  - this way each dungeon run is unique, similar to building a deck in Hearthstone / Slay the Spire
 - deal with combat and negative effects
 - use boni and loot
 - defeat the boss and win
@@ -52,5 +52,5 @@ Scenario cards come in different types, typically either as choice or random:
   - Deck change scenarios (Take X resources but shuffle three Y combat scenarios into the dungeon. Do X damage and shuffle a lava pit into the dungeon. Destroy the following two non-boss scenario cards.)
 - Character deck change scenarios:
   - Choose between cards to add to the characters deck
-    - either temporarely (often, cards disappear after dungeon) or permanently (rare, cards stay after dungeon)
+    - either temporarily (often, cards disappear after dungeon) or permanently (rare, cards stay after dungeon)
   - Destroy cards in characters deck
