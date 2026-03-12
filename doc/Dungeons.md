@@ -40,17 +40,44 @@ When a boss scenario card is revealed and handled, swiping to the next card ends
 ## Scenario Cards
 
 Scenario cards come in different types, typically either as choice or random:
-- Negative [Combat scenarios](Combat.md) (Spawn X-Y enemies of type Z)
-- Positive Loot scenarios (Earn X items of type Y)
-- Positive and negative effect scenarios:
-  - Positive Effect scenarios (Swipe to deal X% more damage for the next Y Cards, Swipe to heal the party for X%)
-  - Negative Effect scenarios (Deals X% damage to party, lowers party damage by Y%)
-    - Can potentially be avoided by having a party member with a tag? "Take 3 damage if you don't have an elf in your party")
-    - Can have multiple effects (Deal 3 damage if you don't have a character with initiative > 3, Deal 3 additional damage if no initiative > 2...)
-- Dungeon deck change scenarios:
-  - Deck interaction scenarios (Look at the next card, choose to put it at bottom. Shuffle deck. Shuffle X cards of type Y into the deck.)
-  - Deck change scenarios (Take X resources but shuffle three Y combat scenarios into the dungeon. Do X damage and shuffle a lava pit into the dungeon. Destroy the following two non-boss scenario cards.)
-- Character deck change scenarios:
-  - Choose between cards to add to the characters deck
-    - either temporarely (often, cards disappear after dungeon) or permanently (rare, cards stay after dungeon)
-  - Destroy cards in characters deck
+
+- **Negative Combat scenarios** (see [Combat](Combat.md)):
+  - Example: "Spawn X-Y enemies of type Z"
+
+- **Positive Loot scenarios**:
+  - Example: "Earn X items of type Y"
+
+- **Positive Effect scenarios**:
+  - Examples:
+    - "Swipe to deal X% more damage for the next Y Cards"
+    - "Swipe to heal the party for X%"
+
+- **Negative Effect scenarios**:
+  - Examples:
+    - "Deals X% damage to party"
+    - "Lowers party damage by Y%"
+  - May have conditional avoidance:
+    - Example: "Take 3 damage if you don't have an elf in your party"
+  - Can have multiple effects:
+    - Examples:
+      - "Deal 3 damage if you don't have a character with initiative > 3"
+      - "Deal 3 additional damage if no initiative > 2"
+
+- **Deck interaction scenarios**:
+  - Examples:
+    - "Look at the next card, choose to put it at bottom"
+    - "Shuffle deck"
+    - "Shuffle X cards of type Y into the deck"
+
+- **Deck change scenarios**:
+  - Examples:
+    - "Take X resources but shuffle three Y combat scenarios into the dungeon"
+    - "Do X damage and shuffle a lava pit into the dungeon"
+    - "Destroy the following two non-boss scenario cards"
+
+- **Character deck change scenarios**:
+  - **Adding cards** (temporary or permanent):
+    - "Choose between cards to add to the character's deck"
+    - Typically temporary (cards disappear after dungeon), occasionally permanent (cards stay after dungeon)
+  - **Destroying cards**:
+    - "Destroy cards in character's deck"
