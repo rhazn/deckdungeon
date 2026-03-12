@@ -32,7 +32,7 @@ A dungeon is played by:
 - (optionally before each reveal: The player rotating their character triangle so a different character is "on top")
 - a revealed card typically affects the character "on top" (they are going first)
 - revealing each card from the top of the deck
-- the player handling the scenario and moving on by swiping the card
+- the player handling the scenario and moving on by swiping the card (a UI gesture that dismisses the current scenario card and reveals the next)
 - revealing the next card from the deck
 
 When a boss scenario card is revealed and handled, swiping to the next card ends the dungeon.
